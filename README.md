@@ -1,6 +1,6 @@
 # ColorLib
 
-A simple and efficient Luau library for color manipulation in Roblox.
+A simple Luau library for color manipulation in Roblox.
 
 ## Features
 
